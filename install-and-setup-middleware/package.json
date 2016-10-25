@@ -1,0 +1,23 @@
+{
+  "name": "morganjs",
+  "version": "1.0.0",
+  "description": "Learn morganjs",
+  "main": "serverjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/era-belajar/si-pencatat-morganjs.git"
+  },
+  "author": "Eka Prasasti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/era-belajar/si-pencatat-morganjs/issues"
+  },
+  "homepage": "https://github.com/era-belajar/si-pencatat-morganjs#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
